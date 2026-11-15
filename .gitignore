@@ -1,0 +1,19 @@
+# Environment secrets
+.env
+.env.*
+!.env.example
+multi-agent-rag/.env
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Databases and caches
+multi-agent-rag/chroma_db/
+*.pkl
+
+# Runtime logs
+multi-agent-rag/query_logs.json
+
+# Root Chroma database
+chroma_db/

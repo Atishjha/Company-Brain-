@@ -1,0 +1,11 @@
+groq
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+chromadb
+rank-bm25
+pypdf
+python-docx
+python-pptx
+requests
